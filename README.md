@@ -1,2 +1,2 @@
-# emp_express_site
-EMP express site
+# educational_mgmt
+ Website for EMP
