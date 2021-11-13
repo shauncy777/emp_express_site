@@ -1,0 +1,109 @@
+@font-face {
+    font-family: "ITCKristenCom-Normal";
+    src: url('webFonts/ITCKristenComNormal/font.woff2') format('woff2'), url('webFonts/ITCKristenComNormal/font.woff') format('woff');
+  }
+
+  
+
+.navbar-brand {
+    margin-left: -10px;
+    display: flexbox;
+    padding: 10px;
+}
+.ITCKristenComNormal {
+	font-family: "ITCKristenCom-Normal";
+}
+
+.text-start{   
+    margin-bottom: 80px;
+}
+
+.overlay{
+
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0px;
+    right: 500px;
+    background: rgba(0, 0, 0, 0.38);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+
+.collapse {
+    margin-left: 250px;
+}
+
+.navbar-nav > li{
+    font-size: 18px;
+    padding-left:0px;
+    padding-right: 20px;
+  }
+
+.dropdown-menu span {
+    content: "\1F4DE";
+    font-size: 12px;
+    font-style: bold;
+}
+
+
+#hero-calc {
+    height: 980px;
+    width: 1850px;
+    overflow: hidden; 
+     
+}
+
+
+
+
+
+
+.carousel-control-prev-icon {
+    margin-bottom: -140px;
+}
+
+.carousel-control-next-icon {
+    margin-bottom: -140px;
+}
+
+ .mid {
+    text-align: left;
+
+}
+
+.text-end {
+    text-align: left !important;
+}
+
+.logo-ul {
+    font-family: "ITCKristenCom-Normal";
+    border: 1px ;
+    margin-top: 18px;
+    margin-left: -40px;
+    font-size: 25px;
+    line-height: 35px;
+    color: rgb(218, 182, 65);
+    list-style-type: none;
+}
+
+.d-inline-block {
+    border: 3px solid rgb(218, 182, 65);
+    padding: 3px;
+}
+
+@media (max-width: 990px)  and (min-width: 768){
+        .col-md-7 {
+            flex: 0 0 auto;
+            width: 40;
+        }
+    }
+  
+  
