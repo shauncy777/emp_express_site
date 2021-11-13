@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4208707, 2021-11-11T12:35:42-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ITCKristenCom-Normal by ITC
+ * URL: https://www.myfonts.com/fonts/itc/kristen-not-so-normal/normal-178113/
+ * Copyright: Part of this font software is copyrighted &amp;#x00A9; 2005 - 2006 Linotype GmbH, www.linotype.com. All rights reserved. This font software may not be reproduced, modified, disclosed or transferred without the express written approval of Linotype GmbH. &amp;#x00A
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: "ITCKristenCom-Normal";
+  src: url('webFonts/ITCKristenComNormal/font.woff2') format('woff2'), url('webFonts/ITCKristenComNormal/font.woff') format('woff');
+}
+
